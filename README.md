@@ -270,25 +270,6 @@ You can tweak the tone (more formal, more casual), the language, or add more rul
 
 ---
 
-## 🎓 How to Talk About This Project in Interviews
-
-Some example bullet points:
-
-- *“Built a local LLM-powered travel assistant for Sri Lanka using a RAG pipeline (Ollama + Llama 3.x + FAISS + sentence-transformers).”*  
-- *“Curated a structured travel knowledge base (destinations, routes, tips) and indexed it using dense embeddings and FAISS for semantic search.”*  
-- *“Implemented guardrails to restrict the model to Sri Lanka travel and avoid hallucinating live prices or non-domain info.”*  
-- *“Developed both a CLI demo and a tropical-themed Streamlit web UI with chat history and small-talk handling.”*
-
----
-
-## 🛠️ Possible Future Improvements
-
-- Add **month / budget filters** in the Streamlit sidebar  
-- Export itineraries as **Markdown or PDF**  
-- Add a **map view** to visualize routes (e.g. with `pydeck` or `folium`)  
-- Hook to a **real API** for live weather or train timetables (with clear disclaimers)
-
----
 
 
 
