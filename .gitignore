@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+.envrc
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Logs
+logs/
+*.log
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.code-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# RAG index artifacts (can be rebuilt with build_index.py)
+data/index/
+
+# Ollama local data (should not live inside this repo, but ignore just in case)
+.ollama/

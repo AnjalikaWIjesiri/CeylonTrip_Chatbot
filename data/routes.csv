@@ -1,0 +1,38 @@
+from,to,transport,hours_min,hours_max,scenic,notes
+Colombo,Kandy,train,2.5,3.5,yes,Frequent; reserve seats if possible.
+Colombo,Galle (Fort),train,2.0,2.5,yes,Coastal line with sea views.
+Colombo,Nuwara Eliya,car,5.0,6.0,yes,Winding roads in hill country.
+Colombo,Ella,car,6.0,7.0,yes,Via hill country; long but scenic.
+Colombo,Trincomalee / Nilaveli,car,5.5,7.0,no,Long cross-island drive.
+Colombo,Jaffna,train,6.5,8.0,no,Book early for seats.
+Colombo,Bentota,train,1.5,2.0,yes,South coast line.
+Colombo,Hikkaduwa,train,2.0,2.5,yes,Coastal views.
+Colombo,Mirissa,car,3.0,4.0,no,Expressway for part of route.
+Colombo,Sigiriya,car,4.0,5.0,no,Usually via Dambulla.
+Negombo,Sigiriya,car,3.5,4.5,no,Airport-adjacent origin; popular first stop.
+Kandy,Sigiriya,car,2.0,3.0,no,Roads can be busy.
+Dambulla,Sigiriya,bus,0.5,1.0,no,Frequent local buses/minivans.
+Sigiriya,Polonnaruwa,car,1.5,2.0,no,Straightforward A-road.
+Sigiriya,Anuradhapura,car,2.0,2.5,no,Two-lane highways.
+Anuradhapura,Jaffna,car,4.0,5.0,no,Long straight roads; few stops.
+Kandy,Nuwara Eliya,train,3.5,4.5,yes,Tea country vistas; reserve seats.
+Kandy,Ella,train,6.0,7.5,yes,Famous scenic train ride.
+Nuwara Eliya,Ella,train,2.5,3.5,yes,Short scenic segment.
+Ella,Haputale,train,1.0,1.5,yes,Short hop with views.
+Nuwara Eliya,Horton Plains National Park,car,1.0,1.5,yes,Early morning start for clear views.
+Nuwara Eliya,Adam’s Peak (Sri Pada),car,3.0,4.0,no,Night climbs typically Dec–Apr.
+Kandy,Knuckles Mountain Range,car,1.5,2.5,yes,Access points vary.
+Galle (Fort),Unawatuna,tuk-tuk,0.2,0.4,no,Short local transfer.
+Galle (Fort),Mirissa,train,1.0,1.5,yes,Several daily trains/buses.
+Mirissa,Weligama,bus,0.3,0.5,no,Very short hop.
+Weligama,Hiriketiya (Dikwella),car,0.75,1.25,no,Local road; traffic varies.
+Tangalle,Yala National Park (Tissamaharama),car,2.0,3.0,no,Most safaris start early morning.
+Mirissa,Udawalawe National Park,car,2.5,3.5,no,Common transfer for afternoon safari.
+Udawalawe National Park,Ella,car,2.0,3.0,yes,Hilly roads toward Ella.
+Ella,Arugam Bay,car,3.5,4.5,no,Dry-zone roads; few services.
+Arugam Bay,Trincomalee / Nilaveli,car,6.0,7.5,no,Long east–north transfer.
+Trincomalee / Nilaveli,Passikudah / Kalkudah,car,2.5,3.5,no,Coastal east link.
+Passikudah / Kalkudah,Polonnaruwa,car,1.5,2.0,no,Short inland drive.
+Trincomalee / Nilaveli,Sigiriya,car,2.5,3.5,no,Useful link back to Cultural Triangle.
+Bandaranaike Airport (CMB),Negombo,car,0.25,0.5,no,Closest beach town to the airport.
+Bandaranaike Airport (CMB),Colombo,car,0.75,1.5,no,Expressway when traffic allows.
